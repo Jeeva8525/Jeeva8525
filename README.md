@@ -25,6 +25,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jeevananthan8525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeevananthan8525" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeevananthan-k-b1a362330/"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDiu7xbObiTDVyfRmVNkwQyJh3IedpiFJCQ&s"
+alt="Linked in"  heigth="30" width="30"></a>                                                          
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
