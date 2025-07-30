@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Live projects**
 
-- 🌱 I’m currently learning **C , Python **
+- 🌱 I’m currently learning **C , Python , C++ , Java , HTML , CSS , JS**
 
 - 👯 I’m looking to collaborate on **live projects**
 
