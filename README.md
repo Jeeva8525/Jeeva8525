@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [coding and ethics](coding and ethics)
 
-- 💬 Ask me about **Web development and codes **
+- 💬 Ask me about **Web development and codes**
 
 - 📫 How to reach me **jeevananthan8507@gmail.com**
 
